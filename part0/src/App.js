@@ -15,24 +15,7 @@ const History = (props) => {
   )
 }
 
-// const Button = (props) => {
-//   console.log(props)
-//   return(
-//     <button onClick={props.handleClick}>
-//       {props.text}
-//     </button>
-//   )
-// }
 
-// const Button = (props) => { 
-//   console.log('props value is', props)
-//   const { handleClick, text } = props
-//   return (
-//     <button onClick={handleClick}>
-//       {text}
-//     </button>
-//   )
-// }
 
 const Button = (props) => (
   <button onClick={props.handleClick}>
