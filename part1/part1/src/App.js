@@ -28,8 +28,6 @@ const Part = (props) => {
   )
 }
 
-
-
 const Total = (props) => {
   return (
     <div>
@@ -39,8 +37,6 @@ const Total = (props) => {
     </div>
   )
 }
-
-
 
 const App = () => {
 
@@ -61,9 +57,6 @@ const App = () => {
       }
     ]
   }
-
-
-
 
   return (
     <div>
